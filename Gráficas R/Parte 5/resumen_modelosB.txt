@@ -1,0 +1,88 @@
+Resumen del modelo lgm1
+
+Call:
+NULL
+
+Coefficients:
+              Estimate Std. Error z value Pr(>|z|)    
+(Intercept)   2.307444   0.609730   3.784 0.000154 ***
+Jugabilidad   0.001967   0.022158   0.089 0.929280    
+EstiloVis    -0.043801   0.038013  -1.152 0.249222    
+IntEmocional  0.026688   0.012865   2.074 0.038034 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 62.532  on 74  degrees of freedom
+Residual deviance: 53.826  on 71  degrees of freedom
+AIC: 61.826
+
+Number of Fisher Scoring iterations: 5
+
+Resumen del modelo lgm1
+
+Call:
+NULL
+
+Coefficients:
+              Estimate Std. Error z value Pr(>|z|)    
+(Intercept)   2.307444   0.609730   3.784 0.000154 ***
+Jugabilidad   0.001967   0.022158   0.089 0.929280    
+EstiloVis    -0.043801   0.038013  -1.152 0.249222    
+IntEmocional  0.026688   0.012865   2.074 0.038034 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 62.532  on 74  degrees of freedom
+Residual deviance: 53.826  on 71  degrees of freedom
+AIC: 61.826
+
+Number of Fisher Scoring iterations: 5
+
+Resumen del modelo lgm1
+
+Call:
+NULL
+
+Coefficients:
+              Estimate Std. Error z value Pr(>|z|)    
+(Intercept)   2.307444   0.609730   3.784 0.000154 ***
+Jugabilidad   0.001967   0.022158   0.089 0.929280    
+EstiloVis    -0.043801   0.038013  -1.152 0.249222    
+IntEmocional  0.026688   0.012865   2.074 0.038034 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 62.532  on 74  degrees of freedom
+Residual deviance: 53.826  on 71  degrees of freedom
+AIC: 61.826
+
+Number of Fisher Scoring iterations: 5
+
+Resumen del modelo lgm1
+
+Call:
+NULL
+
+Coefficients:
+              Estimate Std. Error z value Pr(>|z|)    
+(Intercept)   2.307444   0.609730   3.784 0.000154 ***
+Jugabilidad   0.001967   0.022158   0.089 0.929280    
+EstiloVis    -0.043801   0.038013  -1.152 0.249222    
+IntEmocional  0.026688   0.012865   2.074 0.038034 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 62.532  on 74  degrees of freedom
+Residual deviance: 53.826  on 71  degrees of freedom
+AIC: 61.826
+
+Number of Fisher Scoring iterations: 5
+
